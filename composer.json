@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^1.2.0",
-        "fof/gamification": "*"
+
     },
     "authors": [
         {
