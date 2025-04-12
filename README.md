@@ -19,13 +19,13 @@ ___
 Install with composer:
 
 ```sh
-composer require datlechin/flarum-more-discussions:"*"
+composer require dooooove/flarum-more-discussions:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update datlechin/flarum-more-discussions:"*"
+composer update dooooove/flarum-more-discussions:"*"
 php flarum cache:clear
 ```
 
